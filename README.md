@@ -1,2 +1,2 @@
-This is a repo for my Coursera course
-		Algorithms, Part I (Princeton University)
+This is a repo for my Coursera courses
+		- Algorithms, Part I (Princeton University)
